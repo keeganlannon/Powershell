@@ -1,4 +1,4 @@
-# Powershell
+# Powershell Sys/Sec Admin
 
 Many times System and Security Admininstrators must use Powershell to complete various task or make various checks on the network or system. This menu was created in hopes to make this process a little bit easier by automating these tasks / commands.
 
